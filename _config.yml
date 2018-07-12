@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+relative links: 
+ enabled: true
+ collections: true
