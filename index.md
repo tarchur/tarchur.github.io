@@ -8,7 +8,7 @@ Description: Sundry project pages and logs
 
 Welcome to Tarchur's github pages site.
 
-This site uses the minamilistic jekyll theme.
+This site uses the minimalistic jekyll theme.
 
 ### Projects:
 - Electronic spinning wheel project
