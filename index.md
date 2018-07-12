@@ -17,6 +17,7 @@ This site uses the minimalistic jekyll theme. The pages are written in markdown.
 - A list of applications installed on my Fedora device
 
 ### Useful links:
+- [GitHub-flavoured markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Help page for Writing on GitHub](https://help.github.com/categories/writing-on-github) 
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
