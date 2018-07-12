@@ -20,7 +20,7 @@ This site uses the minimalistic jekyll theme. The pages are written in markdown.
 - [GitHub-flavoured markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Help page for Writing on GitHub](https://help.github.com/categories/writing-on-github) 
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [The readme file for this GitHub page contains markdown examples](README)
+- [The readme file for this GitHub page contains markdown examples](README.md)
 
 ## If you see an error / broken link, please let me know:
 - [Submit an issue](https://github.com/tarchur/tarchur.github.io/issues)
