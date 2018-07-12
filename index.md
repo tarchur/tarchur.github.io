@@ -6,9 +6,9 @@ Description: Sundry project pages and logs
 ---
 ## Tarchur's GitHub pages site
 
-Welcome to Tarchur's github pages site.
+Welcome to Tarchur's GitHub pages site.
 
-This site uses the minimalistic jekyll theme.
+This site uses the minimalistic jekyll theme. The pages are written in markdown.
 
 ### Projects:
 - Electronic spinning wheel project
@@ -17,7 +17,7 @@ This site uses the minimalistic jekyll theme.
 - A list of applications installed on my Fedora device
 
 ### Useful links:
-- [Writing on GithHub page](https://help.github.com/categories/writing-on-github) 
+- [Help page for Writing on GitHub](https://help.github.com/categories/writing-on-github) 
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
 ## If you see an error / broken link, please let me know:
