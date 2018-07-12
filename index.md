@@ -11,7 +11,7 @@ Welcome to Tarchur's GitHub pages site.
 This site uses the minimalistic jekyll theme. The pages are written in markdown.
 
 ### Projects:
-- Electronic spinning wheel project
+- [Electronic spinning wheel project](https://tarchur.github.io/SpinningWheel/)
 
 ### Logs:
 - A list of applications installed on my Fedora device
