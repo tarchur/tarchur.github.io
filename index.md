@@ -21,4 +21,4 @@ This site uses the minamilistic jekyll theme.
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
 ## If you see an error / broken link, please let me know:
-- [Submit an issue](https://github.com/tarchur/tarchur/issues)
+- [Submit an issue](https://github.com/tarchur/tarchur.github.io/issues)
