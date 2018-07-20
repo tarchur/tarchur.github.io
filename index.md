@@ -13,8 +13,8 @@ This GitHub Pages site uses the minimalistic jekyll theme. The content is writte
 ### Projects:
 - [Electronic spinning wheel project](https://tarchur.github.io/SpinningWheel/)
 
-### Logs:
-- A list of applications installed on my Fedora device
+<!-- ### Logs:
+- A list of applications installed on my Fedora device -->
 
 ### Useful links:
 - [GitHub-flavoured markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
