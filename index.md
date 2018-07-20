@@ -12,6 +12,8 @@ This GitHub Pages site uses the minimalistic jekyll theme. The content is writte
 
 ### Projects:
 - [Electronic spinning wheel project](https://tarchur.github.io/SpinningWheel/)
+- [Programming a heating controller](https://tarchur.github.io/stretch_task/)
+
 
 <!-- ### Logs:
 - A list of applications installed on my Fedora device -->
